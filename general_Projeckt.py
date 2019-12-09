@@ -1,3 +1,6 @@
+#Developers: Kuzmin.E: 50%
+#            Mauter.A: 50%  
+
 import urllib.request
 import re as r
 file_out = open('output.txt','w')
